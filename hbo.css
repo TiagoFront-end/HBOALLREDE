@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin:  0px;
+}
+
+body {
+    
+    background-color: blueviolet;
+    background-image: url(IMG/Imagem1.jpg);
+    background-repeat: no-repeat ;
+    background-size: 1385px;
+    overflow: hidden;
+}
+
+img {
+    display:inline-block;
+    width: 200px;
+    position: relative;
+    top:450px;
+}
+
+.menu,header {
+
+    width: 100vw;
+    height: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+
+
+}
+
+a {
+    color:#000;
+    text-decoration: none;
+    float: left;
+    position: relative;
+    left: 15px;
+    top:14px;
+    margin-left: 200px;
+  
+    
+}
